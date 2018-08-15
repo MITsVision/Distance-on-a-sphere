@@ -13,7 +13,9 @@ Did you know that there are more than the 3 trigonometric functions we are all f
 
 The additional trigonometric functions are versine, haversine, coversine, hacoversine, exsecant, and excosecant. All of these can be expressed simply in terms of the more familiar trigonometric functions.
 ### For example, 
-     ` haversine(θ) = sin²(θ/2) `
+ ```python
+ haversine(θ) = sin²(θ/2)
+ ```
 
 The haversine formula is a very accurate way of computing distances between two points on the surface of a sphere using the latitude and longitude of the two points. The haversine formula is a re-formulation of the spherical law of cosines, but the formulation in terms of haversines is more useful for small angles and distances.
 
