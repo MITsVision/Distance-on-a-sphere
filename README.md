@@ -20,7 +20,7 @@ One of the primary applications of trigonometry was navigation, and certain comm
 
 These function names have a simple naming pattern and in this example, the "Ha" in "Haversine" stands for "half versed sine" where ` haversin(θ) = versin(θ)/2 `
 
-![image not found](Distance-on-a-sphere/3d dist.png)
+![image not found](https://raw.githubusercontent.com/savanmorya/Distance-on-a-sphere/master/3d%20dist.png)
 
 #### Haversine Formula 
 The Haversine formula is perhaps the first equation to consider when understanding how to calculate distances on a sphere. The word "Haversine" comes from the function:
