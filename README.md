@@ -45,5 +45,5 @@ d = R ⋅ c
 
 
 Thanks 
-[article](https://community.esri.com/groups/coordinate-reference-systems/blog/2017/10/05/haversine-formula)
+[article](https://communityaaa.esri.com/groups/coordinate-reference-systems/blog/2017/10/05/haversine-formula)
 
