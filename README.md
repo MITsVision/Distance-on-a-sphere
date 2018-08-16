@@ -1,4 +1,5 @@
-# Distance-on-a-sphere
+# Distance on a sphere
+##### Simlply calculating distance from two points(latitude, longitude) on the map.
  ### The Haversine Formula
  
 The Earth is round but big, so we can consider it flat for short distances. But, even though the circumference of the Earth is about 40,000 kilometers, flat-Earth formulas for calculating the distance between two points start showing noticeable errors when the distance is more than about 20 kilometers. Therefore, calculating distances on a sphere needs to consider spherical geometry, the study of shapes on the surface of a sphere. 
